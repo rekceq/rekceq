@@ -1,4 +1,6 @@
 ---
-title: Fala Jack!
+title: Welcome to Quartz
 ---
-Seu maconhero.
+
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
