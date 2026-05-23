@@ -1,3 +1,10 @@
+---
+title: Code Sample
+draft: false
+tags:
+  -
+---
+
 Some text.
 
       if (options.showReadingTime) {
