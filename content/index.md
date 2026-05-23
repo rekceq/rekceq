@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: About
 ---
 ![[Screenshot_20260518_114614.png]]
 
