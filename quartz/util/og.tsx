@@ -365,7 +365,7 @@ export const defaultImage: SocialImageOptions["imageStructure"] = ({
                 backgroundColor: cfg.theme.colors[colorScheme].highlight,
                 color: cfg.theme.colors[colorScheme].secondary,
                 borderRadius: "10px",
-                fontSize: 24,
+                fontSize: 36,
               }}
             >
               #{tag}
