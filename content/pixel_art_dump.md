@@ -1,6 +1,6 @@
 ---
 title: pixel_art_dump
-draft: false
+draft: true
 tags:
   -
 ---
