@@ -1,5 +1,3 @@
 ---
-title: Bernardo
+title: Bernardo Becker Macedo
 ---
-
-[[Banner Sample]]
