@@ -1,5 +1,5 @@
 ---
-title: 😱 Bernardo Becker
+title: Bernardo
 ---
 
 [[Banner Sample]]

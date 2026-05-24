@@ -6,7 +6,7 @@ type MaybeHTMLElement = HTMLElement | undefined
 
 interface ParsedOptions {
   folderClickBehavior: "collapse" | "link"
-  folderDefaultState: "collapsed" | "open"
+  folderDefaultState: "collapsed"// | "open"
   useSavedState: boolean
   sortFn: (a: FileTrieNode, b: FileTrieNode) => number
   filterFn: (node: FileTrieNode) => boolean
@@ -233,13 +233,13 @@ async function setupExplorer(currentSlug: FullSlug) {
     }
 
     // Set up event handlers
-    const explorerButtons = explorer.getElementsByClassName(
-      "explorer-toggle",
-    ) as HTMLCollectionOf<HTMLElement>
-    for (const button of explorerButtons) {
-      button.addEventListener("click", toggleExplorer)
-      window.addCleanup(() => button.removeEventListener("click", toggleExplorer))
-    }
+    //const explorerButtons = explorer.getElementsByClassName(
+    //  "explorer-toggle",
+    //) as HTMLCollectionOf<HTMLElement>
+    //for (const button of explorerButtons) {
+    //  button.addEventListener("click", toggleExplorer)
+    //  window.addCleanup(() => button.removeEventListener("click", toggleExplorer))
+    //}
 
     // Set up folder click handlers
     if (opts.folderClickBehavior === "collapse") {
