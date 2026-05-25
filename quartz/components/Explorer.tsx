@@ -76,7 +76,7 @@ export default ((userOpts?: Partial<Options>) => {
           mapFn: opts.mapFn.toString(),
         })}
       >
-        {/* <button
+        <button
           type="button"
           class="explorer-toggle mobile-explorer hide-until-loaded"
           data-mobile={true}
@@ -103,7 +103,7 @@ export default ((userOpts?: Partial<Options>) => {
           data-mobile={false}
           aria-expanded={true}
         >
-          <h2>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h2>
+          {/* <h2>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h2>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="14"
@@ -117,8 +117,8 @@ export default ((userOpts?: Partial<Options>) => {
             class="fold"
           >
             <polyline points="6 9 12 15 18 9"></polyline>
-          </svg>
-        </button> */}
+          </svg> */}
+        </button>
         <div id={id} class="explorer-content" aria-expanded={false} role="group">
           <OverflowList class="explorer-ul" />
         </div>
