@@ -23,7 +23,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Martian Mono",
+        header: "Nova Flat",
         body: "Martian Mono",
         code: "Martian Mono",
       },
