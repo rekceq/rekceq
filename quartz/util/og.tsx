@@ -232,7 +232,7 @@ export const defaultImage: SocialImageOptions["imageStructure"] = ({
         <div
           style={{
             display: "flex",
-            fontSize: 2,
+            fontSize: 32,
             color: cfg.theme.colors[colorScheme].gray,
             fontFamily: bodyFont,
           }}
@@ -252,7 +252,7 @@ export const defaultImage: SocialImageOptions["imageStructure"] = ({
         <h1
           style={{
             margin: 0,
-            fontSize: useSmallerFont ? 64 : 72,
+            fontSize: useSmallerFont ? 100 : 100,
             fontFamily: headerFont,
             fontWeight: 700,
             color: cfg.theme.colors[colorScheme].dark,
@@ -273,7 +273,7 @@ export const defaultImage: SocialImageOptions["imageStructure"] = ({
         style={{
           display: "flex",
           flex: 1,
-          fontSize: 2,
+          fontSize: 36,
           color: cfg.theme.colors[colorScheme].darkgray,
           lineHeight: 1.4,
         }}
@@ -310,7 +310,7 @@ export const defaultImage: SocialImageOptions["imageStructure"] = ({
             alignItems: "center",
             gap: "2rem",
             color: cfg.theme.colors[colorScheme].gray,
-            fontSize: 2,
+            fontSize: 28,
           }}
         >
           {date && (
@@ -365,7 +365,7 @@ export const defaultImage: SocialImageOptions["imageStructure"] = ({
                 backgroundColor: cfg.theme.colors[colorScheme].highlight,
                 color: cfg.theme.colors[colorScheme].secondary,
                 borderRadius: "10px",
-                fontSize: 2,
+                fontSize: 36,
               }}
             >
               #{tag}
