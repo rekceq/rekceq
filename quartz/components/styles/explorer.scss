@@ -169,7 +169,7 @@ button.desktop-explorer {
   & div > a {
     color: var(--secondary);
     font-family: var(--headerFont);
-    font-size: 0.95rem;
+    font-size: 50rem;
     font-weight: $semiBoldWeight;
     line-height: 1.5rem;
     display: inline-block;
@@ -207,7 +207,7 @@ button.desktop-explorer {
   margin-right: 5px;
   color: var(--secondary);
   cursor: pointer;
-  transition: transform 0s ease;
+  transition: transform 0.3s ease;
   backface-visibility: visible;
   flex-shrink: 0;
 }
@@ -244,7 +244,7 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       box-sizing: border-box;
       z-index: 100;
       position: absolute;
-      top: 0;
+      top: 8;
       left: 0;
       margin-top: 0;
       background-color: var(--light);
