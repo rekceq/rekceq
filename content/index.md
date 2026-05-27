@@ -6,5 +6,5 @@ Bricoleur & Generalist. Currently working to finish a game before my 40's. I hav
 
 ![[page1.png]]
 
-This page is an effort to gather all stuff I have scattered on the internet so I don't loose them as I had lost a lot.
+This page is an effort to gather all stuff I have scattered across the internet so I don't lose them as I lost a lot already.
 
