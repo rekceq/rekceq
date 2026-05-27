@@ -8,4 +8,5 @@ Bricoleur & Generalist. Currently working to finish a game before my 40's. I hav
 
 This page is an effort to gather all stuff I have scattered on the internet so I don't loose them as I had lost a lot.
 
+---
 
