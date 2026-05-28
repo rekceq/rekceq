@@ -8,3 +8,4 @@ tags:
   - roguelike
   - gamemaker
 ---
+![[content/images/ziggurat_logo.png]]

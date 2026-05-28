@@ -7,3 +7,5 @@ tags:
   - roguelike
   - gamemaker
 ---
+
+![[DTHSHP_TILES.png]]
