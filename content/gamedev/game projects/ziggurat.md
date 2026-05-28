@@ -1,5 +1,5 @@
 ---
-title: ZIGGURAT
+title: Ziggurat
 draft: false
 tags:
   - 3d

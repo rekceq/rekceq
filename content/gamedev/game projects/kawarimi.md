@@ -1,5 +1,5 @@
 ---
-title: KAWARIMI
+title: Kawarimi
 draft: false
 tags:
   - 2d

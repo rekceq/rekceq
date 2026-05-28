@@ -1,5 +1,5 @@
 ---
-title: DUNGEON RAT
+title: Dungeon Rat
 draft: false
 tags:
   - 2d
