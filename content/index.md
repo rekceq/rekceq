@@ -2,6 +2,7 @@
 title: Bernardo Becker Macedo
 tags:
   - "#gamemaker"
+  - pixelart
   - animation
 ---
 ---
