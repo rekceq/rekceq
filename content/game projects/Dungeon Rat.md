@@ -7,5 +7,4 @@ tags:
   - roguelike
   - gamemaker
 ---
-
-![[DTHSHP_TILES.png]]
+![[dungeon_rat_logo.png]]
