@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "rekceq.github.io/rekceq",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["kawarimi_cover", "private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
