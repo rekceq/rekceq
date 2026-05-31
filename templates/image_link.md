@@ -1,1 +1,1 @@
-[![[image_name.ext|200]]](/images/image_pages/image_name)
+[![[image_file.png|275]]](image_page)

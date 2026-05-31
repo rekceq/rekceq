@@ -4,4 +4,4 @@ draft: false
 tags:
   -
 ---
-[![[kawarimi_cover.png|200]]]()
+[![[kawarimi_cover.png|275]]](kawarimi_cover)
