@@ -45,7 +45,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer({
       filterFn: (node) => {
         // Set containing the names of everything you want to filter out of the explorer
-        const omit = new Set(["file"]) 
+        const omit = new Set(["img_page"]) 
         return !omit.has(node.displayName.toLowerCase())
       },
     })
