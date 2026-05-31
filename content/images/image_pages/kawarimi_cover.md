@@ -1,0 +1,1 @@
+![[kawarimi_cover.png]]
