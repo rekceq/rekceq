@@ -4,4 +4,4 @@ draft: false
 tags:
   -
 ---
-[[kawarimi_cover]]
+![[content/images/kawarimi_cover.png]]
