@@ -1,6 +1,6 @@
 ---
 title: kawarimi_cover
-draft: false
+draft: true
 tags:
   -
 ---
