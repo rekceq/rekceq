@@ -45,7 +45,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer({
       filterFn: (node) => {
       // exclude files with the tag "explorerexclude"
-      return node.data?.tags?.includes("ignore") !== true
+      return !node.file?.path?.startsWith("content/drafts")
       },
     })
   ],
