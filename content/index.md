@@ -1,5 +1,5 @@
 ---
-title: Bernardo Becker Macedo
+title: Bernardo Becker
 tags:
 ---
 ---
