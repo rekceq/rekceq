@@ -1,0 +1,1 @@
+![[public/images/image_pages/kawarimi_cover_raw.png]]
