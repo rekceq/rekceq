@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"0add8d07de4de3d9","type":"group","x":281,"y":26,"width":619,"height":334,"label":"devSTREAM scripts"},
+		{"id":"ff52b7a675432b34","type":"text","text":"devSTREAM #0 - Foundations and something to start.\n\n- [ ] Self Introduction\n- [ ] Project Overview\n- [ ] Tasks Overview\n- [ ] GM Project SETUP\n- [ ] Input Plugin\n- [ ] Base Objects\n- [ ] Base Movement\n- [ ] Outro -","x":300,"y":40,"width":280,"height":300},
+		{"id":"1270532a3b967c93","type":"text","text":"devSTREAM #1 - Tiles and dynamic terrain.\n\n- [ ] Last stream recap.\n- [ ] Tasks overview\n- [ ] Setup tile-based stuff.\n- [ ] Setup tile-based stuff.\n- [ ] Setup Collisions\n- [ ] Entity x Terrain Base Actions\n- [ ] Entity x Entity  Base Actions\n- [ ] Outro","x":600,"y":40,"width":280,"height":300}
+	],
+	"edges":[]
+}

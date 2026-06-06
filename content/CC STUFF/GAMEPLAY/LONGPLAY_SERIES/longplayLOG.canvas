@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"a06bb7064e1679e5","type":"text","text":"ONGOING","x":-440,"y":-180,"width":240,"height":60,"color":"2"},
+		{"id":"c2325a15137c2e5a","type":"text","text":"COMPLETED","x":-440,"y":-100,"width":240,"height":60,"color":"4"},
+		{"id":"ce9e495169125e36","type":"text","text":"UPCOMING","x":-440,"y":-260,"width":240,"height":60,"color":"6"},
+		{"id":"03a32ed223692637","type":"text","text":"MINA THE HOLLOWER (2026)","x":-200,"y":-180,"width":280,"height":60,"color":"2"},
+		{"id":"e9aa8f1de072186a","type":"text","text":"COMPLETED","x":-160,"y":-100,"width":240,"height":60,"color":"4"},
+		{"id":"459b8015c9278031","type":"text","text":"UPCOMING","x":-160,"y":-260,"width":240,"height":60,"color":"6"}
+	],
+	"edges":[]
+}

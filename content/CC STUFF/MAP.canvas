@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"f8e892aa3c5fc29d","type":"group","x":-480,"y":0,"width":1180,"height":440,"label":"CONTENT CREATION"},
+		{"id":"657a92c796b53876","type":"text","text":"MISC","x":60,"y":360,"width":240,"height":60,"color":"2"},
+		{"id":"b8853e4fac6c65a9","type":"link","url":"https://www.youtube.com/@Masmorrato","x":-460,"y":40,"width":500,"height":380,"color":"1"},
+		{"id":"dc1e45de13ebc819","type":"text","text":"GAMEPLAY","x":60,"y":40,"width":240,"height":140,"color":"6"},
+		{"id":"17c99a5c5640a9f2","type":"text","text":"GAMEDEV","x":60,"y":200,"width":240,"height":140,"color":"4"},
+		{"id":"3266953ee62e1fdd","type":"text","text":"LONGPLAY SERIES","x":320,"y":40,"width":240,"height":60,"color":"1"},
+		{"id":"a08bfb82b96391d2","type":"text","text":"GAME PREVIEWS","x":320,"y":120,"width":240,"height":60,"color":"5"},
+		{"id":"54469f9e0544973a","type":"file","file":"content/CC STUFF/GAMEPLAY/LONGPLAY_SERIES/longplayLOG.canvas","x":560,"y":40,"width":120,"height":60,"color":"1"},
+		{"id":"befd17f15cd908e3","type":"text","text":"DEVSTREAM","x":320,"y":200,"width":240,"height":60,"color":"3"},
+		{"id":"a66b05c17fd5b4a4","type":"text","text":"DEVLOG","x":320,"y":280,"width":240,"height":60,"color":"5"},
+		{"id":"4add3cc6d7744351","type":"file","file":"content/CC STUFF/GAMEDEV/DEVLOG/devlogDOC.canvas","x":560,"y":280,"width":120,"height":60},
+		{"id":"b17827a842744e67","x":560,"y":200,"width":120,"height":60,"type":"file","file":"content/CC STUFF/GAMEDEV/DEVSTREAM/devstreamLOG.canvas"}
+	],
+	"edges":[]
+}

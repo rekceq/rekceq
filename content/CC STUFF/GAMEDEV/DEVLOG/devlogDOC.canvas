@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"ce0f8e39d2c6bb8a","type":"group","x":80,"y":40,"width":740,"height":740,"label":"gm2DRL"},
+		{"id":"3db3268f2057c1a3","type":"text","text":"CLASSIC ROGUELIKE","x":100,"y":60,"width":140,"height":460,"color":"6"},
+		{"id":"f869f1852b48ba49","type":"text","text":"DUNGEON CRAWLER","x":100,"y":540,"width":140,"height":220,"color":"6"},
+		{"id":"b4dc5d0c0f8019bd","type":"text","text":"PERMADEATH","x":240,"y":300,"width":200,"height":60},
+		{"id":"a1ffd6dec30ae917","type":"text","text":"PROCEDURAL WORLD","x":240,"y":380,"width":200,"height":60},
+		{"id":"a10768d9578aefc7","type":"text","text":"SIMILAR ENTITIES","x":240,"y":60,"width":200,"height":60},
+		{"id":"3533d6e5085990d4","type":"text","text":"2D GRID/TILE BASED","x":240,"y":140,"width":200,"height":60},
+		{"id":"ee5cdc3ddcfd8c48","type":"text","text":"TURN BASED","x":240,"y":220,"width":200,"height":60},
+		{"id":"b56005bc4a5f5d58","type":"text","text":"LEVELING UP","x":240,"y":620,"width":200,"height":60},
+		{"id":"b65d8a7b2a566efe","type":"text","text":"EQUIPMENT/LOOT","x":240,"y":700,"width":200,"height":60},
+		{"id":"df9ce16680cdd8d7","type":"text","text":"HIDDEN ITEM EFFECTS","x":240,"y":460,"width":200,"height":60},
+		{"id":"f649acda3438c273","type":"text","text":"INTENSE COMBAT","x":240,"y":540,"width":200,"height":60},
+		{"id":"7d3c2b90674b1f39","type":"text","text":"UNIQUE MECHANIC","x":460,"y":60,"width":140,"height":60,"color":"2"},
+		{"id":"44124cf829533470","type":"text","text":"FLUID SWARM CREATURES","x":600,"y":60,"width":200,"height":60,"color":"2"},
+		{"id":"06618d605f19a854","type":"text","text":"SINGLE SCREEN","x":600,"y":220,"width":200,"height":60,"color":"1"},
+		{"id":"90b7435d7ae8e879","type":"text","text":"THEME: DARK FANTASY","x":600,"y":300,"width":200,"height":60,"color":"6"},
+		{"id":"0f9246b7f9844c2b","type":"text","text":"OTHER LIMITATIONS","x":460,"y":140,"width":140,"height":140,"color":"1"},
+		{"id":"b09f23e4c247f970","type":"text","text":"RETRO INSPIRED GRAPHICS\n","x":460,"y":300,"width":140,"height":460,"color":"4"},
+		{"id":"330a73ea13e69fcc","type":"text","text":"NO EXPLICIT INVENTORY","x":600,"y":140,"width":200,"height":60,"color":"1"},
+		{"id":"f1aa07b290c5b329","type":"text","text":"PIXEL ART","x":600,"y":460,"width":200,"height":60},
+		{"id":"808b9cb02a4aee74","type":"text","text":"LIMITED PALETTE","x":600,"y":540,"width":200,"height":60},
+		{"id":"c45ac1bf636dcd0a","type":"text","text":"MINIMALIST BUT ANIMATED ASSETS","x":600,"y":620,"width":200,"height":60},
+		{"id":"027bed6f678148c6","type":"text","text":"TOP DOWN","x":600,"y":380,"width":200,"height":60},
+		{"id":"427480a6617d05e5","type":"text","text":"PARTICLES","x":600,"y":700,"width":200,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"49be27483bf160ca","fromNode":"f649acda3438c273","fromSide":"bottom","toNode":"b56005bc4a5f5d58","toSide":"top"}
+	]
+}
