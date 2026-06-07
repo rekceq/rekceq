@@ -9,3 +9,7 @@ tags:
 
 This page is an effort to gather all stuff I have scattered across the internet so I don't lose them as I already lost a lot .
 
+https://github.com/rekceq/bernardobecker.git
+
+
+![[/MAP.canvas]]

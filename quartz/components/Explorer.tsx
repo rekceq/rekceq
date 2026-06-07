@@ -55,6 +55,8 @@ export type FolderState = {
   collapsed: boolean
 }
 
+
+
 let numExplorers = 0
 export default ((userOpts?: Partial<Options>) => {
   const opts: Options = { ...defaultOptions, ...userOpts }

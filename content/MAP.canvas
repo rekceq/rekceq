@@ -11,7 +11,7 @@
 		{"id":"befd17f15cd908e3","type":"text","text":"DEVSTREAM","x":320,"y":200,"width":240,"height":60,"color":"3"},
 		{"id":"a66b05c17fd5b4a4","type":"text","text":"DEVLOG","x":320,"y":280,"width":240,"height":60,"color":"5"},
 		{"id":"4add3cc6d7744351","type":"file","file":"content/CC STUFF/GAMEDEV/DEVLOG/devlogDOC.canvas","x":560,"y":280,"width":120,"height":60},
-		{"id":"b17827a842744e67","x":560,"y":200,"width":120,"height":60,"type":"file","file":"content/CC STUFF/GAMEDEV/DEVSTREAM/devstreamLOG.canvas"}
+		{"id":"b17827a842744e67","type":"file","file":"content/CC STUFF/GAMEDEV/DEVSTREAM/devstreamLOG.canvas","x":560,"y":200,"width":120,"height":60}
 	],
 	"edges":[]
 }
